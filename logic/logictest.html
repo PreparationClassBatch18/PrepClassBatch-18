@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Perulangan Catur</h1>
+        <script>
+            var Str = "";
+            for(var i = 0; i < 8; i++){
+                Str = "";
+                for(var j = 0; j < 8; j++){
+                    if(i % 2 == 0){
+                        if(j % 2 == 0){
+                            Str = Str.concat("#");
+                        }
+                        else {
+                            Str = Str.concat(" ");
+                        }
+                    }
+                    else {
+                        if(j % 2 == 0){
+                            Str = Str.concat(" ");
+                        }
+                        else {
+                            Str = Str.concat("#");
+                        }
+                    }
+                }
+            console.log(Str);
+            }
+        </script>
+    </body>
+</html>
