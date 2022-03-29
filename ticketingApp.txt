@@ -3,8 +3,8 @@
 Jawaban : 
 
 Pada dasarnya ketiga aplikasi ini dibuat/dirancang untuk memudahkan dalam
- menangani berbagai projek yang dijalankan dan ketiga aplikasi ini bersifat
- agile dan ketiga ticketing app ini menganut Scrum dan Kanban Boards system.
+menangani berbagai projek yang dijalankan dan ketiga aplikasi ini bersifat
+agile dan ketiga ticketing app ini menganut Scrum dan Kanban Boards system.
 
 - Jira
 
@@ -49,16 +49,14 @@ Kelebihan Youtrack
 Kekurangan Youtrack
 
 1. Kesulitan monitoring, tracking, dan searching yang ada pada projek
-
 2. Sistem notifikasi tidak terlalu baik
-
 3. Tidak semua orang bisa mengedit tiket pada projek tanpa di aktifkan
- dulu dari bagian IT
-
+   dulu dari bagian IT
 4. Masih banyak bug dan kendala pada UX yang kadang menyebalkan
 
 
 2. SEV-2 menganut ticketing yang mana antara Jira, Trello, dan Youtrack?
-Jawaban :  Trello karena pada fitur trello sendiri terdapat fitur yang dapat
- melihat perubahan yang dilakukan oleh orang lain, melihat tugas-tugas pada
- orang lain yang sedang dikerjakan sama seperti pada ticketing SEV-2.
+Jawaban : 
+Trello karena pada fitur trello sendiri terdapat fitur yang dapat
+melihat perubahan yang dilakukan oleh orang lain, melihat tugas-tugas pada
+orang lain yang sedang dikerjakan sama seperti pada ticketing SEV-2.
