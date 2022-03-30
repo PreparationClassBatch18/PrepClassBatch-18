@@ -1,0 +1,29 @@
+Ticketing adalah system management project untuk membantu dalam memanagement tim dalam pengerjaan suatu project, sehingga setiap pengerjaan dari tim dapat terlihat setiap kemajuannya
+
+Fitur :
+	Trello :
+	1. Board
+	2. List
+	3. Card
+	4. Menu
+
+	Jira :
+	1. Task Assignment
+	2. Fitur boards Scrum dan Kanban
+	3. Roadmaps
+	4. Customisasi
+	5. Konektivitas dengan aplikasi lain
+	6. Report
+
+	Youtrack :
+	1. Task Management
+	2. Team Colaboration
+	3. Agile Boards Scrumm and kanban
+	4. Planning
+	5. Reporting
+	6. Time Tracking
+	7. Gant Chart
+	8. Customisasi
+	9. Integration
+	
+Fitur ticketing yang diadaptasi oleh sev-2 salah satunya dari platform Jira
